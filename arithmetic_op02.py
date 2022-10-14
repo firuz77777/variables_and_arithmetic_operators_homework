@@ -3,6 +3,6 @@ a = 3
 # Create a variable "b"  and assign it the value of the int 4.
 b = 4
 # Create a variable called 'answer'.
-print(ansver)
+
 # Find the sum of a and b than assign to 'answer'
-ansver = a + b
+answer = a + b
